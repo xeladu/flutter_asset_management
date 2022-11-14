@@ -1,16 +1,9 @@
-# asset_management
+# Support
 
-A new Flutter project.
+If you like this post or my work in general, feel free to support me in any way ❤
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- You can [become a Medium member via my referral link](https://xeladu.medium.com/membership) for just $5 a month! 💖
+- You can [buy me a coffee](https://www.buymeacoffee.com/xeladu) ☕
+- You can [browse my Gumroad store](https://xeladu.gumroad.com) for ebooks and freebies 📙
+- You can [join my free monthly Medium Newsletter](https://bit.ly/xeladu-medium) 💌
+- You can [find all my published stuff here](https://xeladu.medium.com/%E2%84%B9-xeladus-info-point-find-quickly-what-you-need-bbe620e97d8c) 📑
